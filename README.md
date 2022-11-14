@@ -8,7 +8,7 @@ My Programming and Data Science Portfolio
 * Wrote python code that scrapes historical NCAA football data from the web. 
 * [Click here for full description of the Colley Method](https://www.colleyrankings.com/matrate.pdf)
 
-### [Project 2: World Bank Data Scraper](https://github.com/samtragesser/Computing-and-Machine-Learning-for-Economics/tree/main/World_Bank_Import)
+### [Project 2: World Bank Data Scraper](https://github.com/samtragesser/Computing-and-Machine-Learning-for-Economics/tree/main/World%20Bank%20Import)
 * Scrapes data for any given economic indicator from any given year on the World Bank website.
 * Parses the website's HTML using Beautiful Soup and outputs the data in a pandas DataFrame. 
 * [Click here for descriptions of World Bank indicators](https://data.worldbank.org/indicator)
